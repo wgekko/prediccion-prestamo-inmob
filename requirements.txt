@@ -1,0 +1,12 @@
+matplotlib
+numerize
+numpy
+openpyxl
+pandas
+base64
+streamlit
+plotly
+plotly-express
+scikit-learn
+seaborn
+
